@@ -8,7 +8,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'C课程', link: '/c-programming/' },
+      { text: 'DSA', link: '/DSA/' },
       { text: 'About', link: '/about' }
+      
+      
     ],
 
     sidebar: [
@@ -18,11 +22,23 @@ export default defineConfig({
           { text: 'About', link: '/about' },
           { text: 'Getting Started', link: '/get-started' }
         ]
+      },
+      {
+        text: 'C Classes Notes C课程',
+        items: [
+          { text: 'General', link: '/c-programming/'       }
+        ]
+      },
+      {
+        text: 'DSA Competitive Programming 竞赛编程',
+        items: [
+          { text: 'General', link: '/c-programming/'       }
+        ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Slimer210' }
     ]
   }
 })
