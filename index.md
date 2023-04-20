@@ -4,22 +4,15 @@ layout: home
 
 hero:
   name: "AlgoNotes 演算法笔记"
-  text: "A website full with algorithm notes"
-  tagline: My great project tagline
+  text: "A website full with my algorithm notes"
+  tagline: Made my Slimer and his best friends
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started 开始
+      link: /get-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: About 关于
+      link: /about
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
