@@ -26,13 +26,21 @@ export default defineConfig({
       {
         text: 'C Classes Notes C课程',
         items: [
-          { text: 'General', link: '/c-programming/'       }
+          { text: 'General', link: '/c-programming/'},
+          { text: 'Class 01', link: '/c-programming/class-01'},
+          { text: 'Class 02', link: '/c-programming/class-02'},
+          { text: 'Class 03', link: '/c-programming/class-03'},
+          { text: 'Class 04', link: '/c-programming/class-04'}
         ]
       },
       {
         text: 'DSA Competitive Programming 竞赛编程',
         items: [
-          { text: 'General', link: '/c-programming/'       }
+          { text: 'General', link: '/dsa/'},
+          { text: 'Chapter 1 - Getting Started with Setup', link: '/dsa/chap-1'},
+          { text: 'Chapter 2 - Mathematical Formulas & Implementations', link: '/dsa/chap-2'},
+          { text: 'Chapter 3', link: '/dsa/chap-3'},
+          { text: 'Chapter 4', link: '/dsa/chap-4'}
         ]
       }
     ],
