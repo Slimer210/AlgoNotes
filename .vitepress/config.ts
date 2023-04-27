@@ -39,8 +39,8 @@ export default defineConfig({
           { text: 'General', link: '/dsa/'},
           { text: 'Chapter 1 - Getting Started with Setup', link: '/dsa/chap-1'},
           { text: 'Chapter 2 - Mathematical Formulas & Implementations', link: '/dsa/chap-2'},
-          { text: 'Chapter 3', link: '/dsa/chap-3'},
-          { text: 'Chapter 4', link: '/dsa/chap-4'}
+          { text: 'Chapter 3 - Sorting Algorithms & Time Complexity', link: '/dsa/chap-3'},
+          { text: 'Chapter 4 - Basic Data Structures', link: '/dsa/chap-4'}
         ]
       }
     ],
